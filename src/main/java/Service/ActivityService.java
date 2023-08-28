@@ -53,7 +53,7 @@ public class ActivityService {
         sb.append("Activities available").append(System.lineSeparator());
         sb.append("Activity name : vacancy").append(System.lineSeparator());
         for(Activity activity : activityList){
-            sb.append(activity.getName()).append(" : ").append(activity.getVacancy());
+            sb.append(activity.getName()).append(" : ").append(activity.getVacancy()).append(System.lineSeparator());
         }
         return sb.toString();
     }
