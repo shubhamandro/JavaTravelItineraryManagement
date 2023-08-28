@@ -1,10 +1,7 @@
 package Controller;
 
-import DTO.Activity;
-import DTO.Passenger;
+import Dto.Passenger;
 import Service.PassengerService;
-
-import java.util.Objects;
 
 public class PassengerController {
 

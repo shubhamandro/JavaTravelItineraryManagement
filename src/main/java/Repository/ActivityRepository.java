@@ -1,6 +1,6 @@
 package Repository;
 
-import DTO.Activity;
+import Dto.Activity;
 
 import java.util.*;
 

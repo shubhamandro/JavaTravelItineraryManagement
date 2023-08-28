@@ -1,8 +1,8 @@
 package Controller;
 
 
-import DTO.Activity;
-import DTO.Destination;
+import Dto.Activity;
+import Dto.Destination;
 import Service.ActivityService;
 
 public class ActivityController {

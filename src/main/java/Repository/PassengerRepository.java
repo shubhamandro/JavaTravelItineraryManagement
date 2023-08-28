@@ -1,6 +1,6 @@
 package Repository;
 
-import DTO.Passenger;
+import Dto.Passenger;
 
 import java.util.ArrayList;
 import java.util.HashMap;

@@ -1,8 +1,7 @@
 package Controller;
 
-import DTO.Destination;
-import DTO.Passenger;
-import DTO.TravelPackage;
+import Dto.Destination;
+import Dto.TravelPackage;
 import Service.TravelPackageService;
 import Exception.*;
 

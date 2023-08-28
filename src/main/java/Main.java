@@ -2,7 +2,7 @@ import Controller.ActivityController;
 import Controller.DestinationController;
 import Controller.PassengerController;
 import Controller.TravelPackageController;
-import DTO.*;
+import Dto.*;
 
 import java.util.ArrayList;
 

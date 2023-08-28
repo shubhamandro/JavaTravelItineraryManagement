@@ -1,10 +1,7 @@
 package Controller;
 
-import DTO.Activity;
-import DTO.Destination;
+import Dto.Destination;
 import Service.DestinationService;
-
-import java.util.Objects;
 
 public class DestinationController {
 

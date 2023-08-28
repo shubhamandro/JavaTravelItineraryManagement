@@ -1,7 +1,6 @@
 package Service;
 
-import DTO.Activity;
-import DTO.Destination;
+import Dto.Destination;
 import Exception.DestinationNotFoundException;
 import Repository.Repository;
 import Exception.*;

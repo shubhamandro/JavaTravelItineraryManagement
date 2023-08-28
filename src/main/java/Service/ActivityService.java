@@ -1,8 +1,8 @@
 package Service;
 
 import Exception.DuplicateActivityException;
-import DTO.Activity;
-import DTO.Destination;
+import Dto.Activity;
+import Dto.Destination;
 import Repository.*;
 import Exception.*;
 

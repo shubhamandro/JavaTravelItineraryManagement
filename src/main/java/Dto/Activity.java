@@ -1,4 +1,4 @@
-package DTO;
+package Dto;
 
 public class Activity {
     private final String name;

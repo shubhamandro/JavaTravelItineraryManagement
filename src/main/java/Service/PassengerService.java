@@ -1,8 +1,8 @@
 package Service;
 
-import DTO.Activity;
-import DTO.Destination;
-import DTO.Passenger;
+import Dto.Activity;
+import Dto.Destination;
+import Dto.Passenger;
 import Repository.Repository;
 import Exception.DuplicatePassengerException;
 import Exception.*;

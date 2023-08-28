@@ -1,8 +1,8 @@
 package Service;
 
-import DTO.Destination;
-import DTO.Passenger;
-import DTO.TravelPackage;
+import Dto.Destination;
+import Dto.Passenger;
+import Dto.TravelPackage;
 import Repository.Repository;
 import Exception.TravelPackageNotFoundException;
 import Exception.DuplicateTravelPackageException;
